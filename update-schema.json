@@ -1,4 +1,4 @@
 {
-"version": "7.0.5",
-"notes": ["Added side menu", "Added new app icon", "Revamped Home screen", "Revamped Transaction history screen"]
+"version": "7.0.6",
+"notes": ["Updated side menu with more options", "Added banks search feature", "Fixed redirection issues"]
 }
