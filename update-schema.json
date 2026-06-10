@@ -1,6 +1,6 @@
 {
-"version": "7.0.7",
-"android_version" : "7.0.7",
-"ios_version" : "7.0.6",
-"notes": ["NEW: Added Devices and Session", "NEW: Added bonus point", "FIX: resolved authentication issues", "FIX: Resolved transaction statuses", "Fix: resolved major issues related to KYC"]
+"version": "8.0.3",
+"android_version" : "8.0.3",
+"ios_version" : "8.0.3",
+"notes": ["Fix:Transaction view fix", "New: Force update", "Fix: resolved minor issues related to transactions"]
 }
