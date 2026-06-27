@@ -1,6 +1,6 @@
 {
 "version": "8.0.2",
 "android_version" : "8.0.2",
-"ios_version" : "8.0.2",
-"notes": ["Fix:Transaction view fix", "New: Force update", "Fix: resolved minor issues related to transactions"]
+"ios_version" : "8.0.9",
+"notes": ["Fix: Transaction Limit issue", "Fix: Bug fixes"]
 }
