@@ -2,5 +2,5 @@
 "version": "8.0.4",
 "android_version" : "8.0.4",
 "ios_version" : "8.0.3",
-"notes": ["Fix: Transaction Limit issue", "Fix: Bug fixes"]
+"notes": ["Fix: Download receipt fix", "Fix: Payment gateway fix", "Fix: Bug fixes"]
 }
