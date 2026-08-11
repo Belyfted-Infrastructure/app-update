@@ -1,6 +1,6 @@
 {
-"version": "8.0.5",
+"version": "8.0.6",
 "android_version" : "8.0.5",
-"ios_version" : "8.0.5",
-"notes": ["Fix: GHS COP validation", "Fix: Bug fixes"]
+"ios_version" : "8.0.6",
+"notes": ["Fix: Threat detection fix", "Fix: Payment amount truncation error", "Fix: Minor bug fixes"]
 }
