@@ -1,6 +1,6 @@
 {
 "version": "8.0.6",
-"android_version" : "8.0.6",
+"android_version" : "8.0.7",
 "ios_version" : "8.0.6",
-"notes": ["Fix: Threat detection fix", "Fix: Payment amount truncation error", "Fix: Minor bug fixes"]
+"notes": ["Fix: Email verification", "Fix: OTP Deliveryr", "Minor Fixes", "Major Improvements"]
 }
