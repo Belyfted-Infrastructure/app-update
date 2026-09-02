@@ -2,5 +2,5 @@
 "version": "8.0.7",
 "android_version" : "8.0.8",
 "ios_version" : "8.0.7",
-"notes": ["Fix: Currency Rate", "Minor Fixes", "Major Improvements"]
+"notes": ["Fix: Currency Exchange Rate", "Minor Fixes", "Major Improvements"]
 }
