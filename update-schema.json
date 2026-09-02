@@ -1,6 +1,6 @@
 {
 "version": "8.0.7",
-"android_version" : "8.0.7",
+"android_version" : "8.0.8",
 "ios_version" : "8.0.7",
-"notes": ["Fix: Email verification", "Fix: OTP Deliveryr", "Minor Fixes", "Major Improvements"]
+"notes": ["Fix: Currency Rate", "Minor Fixes", "Major Improvements"]
 }
