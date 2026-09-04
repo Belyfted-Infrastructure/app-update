@@ -1,6 +1,6 @@
 {
-"version": "8.0.7",
-"android_version" : "8.0.8",
-"ios_version" : "8.0.7",
-"notes": ["Fix: Currency Exchange Rate", "Minor Fixes", "Major Improvements"]
+"version": "8.0.9",
+"android_version" : "8.0.9",
+"ios_version" : "8.0.9",
+"notes": ["Fix: Updated rates display for non GBP corridors", "Minor Fixes", "Major Improvements"]
 }
