@@ -1,6 +1,6 @@
 {
-"version": "8.0.9",
-"android_version" : "8.0.9",
+"version": "8.1.0",
+"android_version" : "8.1.0",
 "ios_version" : "8.0.9",
-"notes": ["Fix: Updated rates display for non GBP corridors", "Minor Fixes", "Major Improvements"]
+"notes": ["Fix: Updated exchange rate card to display reverse rate for non-GBP corridors", "Fix:Payment review screen adjustment", "Fixed send/receive corridors to use supported countries", "Minor Fixes", "Major Improvements"]
 }
